@@ -131,7 +131,6 @@ section .content {
   width: 500px;
 }
 
-
 .box-3>.left {
   margin-left: 20px;
   float: left;
@@ -147,6 +146,8 @@ section .content {
 }
 
 img {
+  width: 500px;
+  height: 370px;
   border: 1px solid #ccc;
   padding: 2px;
   margin: 2px;
